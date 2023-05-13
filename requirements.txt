@@ -1,4 +1,5 @@
 pandas
+nbformat
 pathlib
 numpy
 seaborn
