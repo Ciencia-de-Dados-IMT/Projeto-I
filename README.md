@@ -1,2 +1,1 @@
-# Projeto-I
-Projeto do primeiro semestre para a matéria Ciência de Dados do Instituto Mauá de Tecnologia
+# temp-ciencia-de-dados-proj-1
